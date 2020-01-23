@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPricer", "CarPricer\CarPricer.csproj", "{6163E7BB-98B0-42AF-A663-44E9CF7F699D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPricerTest", "CarPricerTest\CarPricerTest.csproj", "{98C9D82C-D07E-46B4-BDCE-0691F75433F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6163E7BB-98B0-42AF-A663-44E9CF7F699D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6163E7BB-98B0-42AF-A663-44E9CF7F699D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6163E7BB-98B0-42AF-A663-44E9CF7F699D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6163E7BB-98B0-42AF-A663-44E9CF7F699D}.Release|anycpu.Build.0 = Release|anycpu
+		{98C9D82C-D07E-46B4-BDCE-0691F75433F6}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{98C9D82C-D07E-46B4-BDCE-0691F75433F6}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{98C9D82C-D07E-46B4-BDCE-0691F75433F6}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{98C9D82C-D07E-46B4-BDCE-0691F75433F6}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

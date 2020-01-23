@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{6163E7BB-98B0-42AF-A663-44E9CF7F699D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarPricer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarPricerTest/CarPricerTests.cs">
+    <Files>
+      <File FileName="CarPricer/Program.cs" Line="1" Column="1" />
+      <File FileName="CarPricer/Car.cs" Line="1" Column="1" />
+      <File FileName="CarPricer/PriceDeterminator.cs" Line="29" Column="17" />
+      <File FileName="CarPricerTest/CarPricerTests.cs" Line="50" Column="1" />
+      <File FileName="../../Library/Caches/VisualStudio/8.0/Symbols/mono/corefx/ce3063888de7b459bf4e54b4a8d23f23c41adaf3/src/Common/src/CoreLib/System/Collections/Generic/List.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarPricer" expanded="True">
+            <Node name="CarPricer" expanded="True" />
+            <Node name="CarPricerTest" expanded="True">
+              <Node name="CarPricerTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CarPricer" expanded="True">
+            <Node name="CarPricerTest" expanded="True">
+              <Node name="CarPricerTest" expanded="True">
+                <Node name="UnitTests" expanded="True">
+                  <Node name="Should_calculate_age_price_reduction" expanded="True" />
+                  <Node name="Should_calculate_collision_reduction" expanded="True">
+                    <Node name="Should_calculate_collision_reduction(5,50000,45000)" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/msalah/Library/Caches/VisualStudio/8.0/Symbols/mono/corefx/ce3063888de7b459bf4e54b4a8d23f23c41adaf3</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/msalah/Projects/CarPricer/CarPricerTest/CarPricerTests.cs" relfile="CarPricerTest/CarPricerTests.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/CarPricerTest.dll
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/CarPricerTest.pdb
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/CarPricer.exe
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/nunit.framework.dll
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/CarPricer.pdb
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/nunit.framework.pdb
+/Users/msalah/Projects/CarPricer/CarPricerTest/bin/Debug/nunit.framework.xml
+/Users/msalah/Projects/CarPricer/CarPricerTest/obj/Debug/CarPricerTest.csproj.CopyComplete
+/Users/msalah/Projects/CarPricer/CarPricerTest/obj/Debug/CarPricerTest.dll
+/Users/msalah/Projects/CarPricer/CarPricerTest/obj/Debug/CarPricerTest.pdb

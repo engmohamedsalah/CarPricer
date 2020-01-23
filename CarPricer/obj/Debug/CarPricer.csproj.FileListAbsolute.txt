@@ -1,0 +1,5 @@
+/Users/msalah/Projects/CarPricer/CarPricer/bin/Debug/CarPricer.exe
+/Users/msalah/Projects/CarPricer/CarPricer/bin/Debug/CarPricer.pdb
+/Users/msalah/Projects/CarPricer/CarPricer/obj/Debug/CarPricer.csprojAssemblyReference.cache
+/Users/msalah/Projects/CarPricer/CarPricer/obj/Debug/CarPricer.exe
+/Users/msalah/Projects/CarPricer/CarPricer/obj/Debug/CarPricer.pdb
